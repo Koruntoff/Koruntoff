@@ -5,8 +5,11 @@
 - [Active Directory Home Lab] (
 - [NAS Server] (
 
+<h2>📄 Certifications</h2>
 
+- [Comptia A+ certification]
+- [Comptia Network+ cerification (to be obtained on june 9th]
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: linkedin.com/in/roy-parks-koruntoff-b3a89730b
+[linkedin]: www.linkedin.com/in/roy-parks-koruntoff-b3a89730b
