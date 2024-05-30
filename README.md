@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roy <br/><a href="https://github.com/Koruntoff">IT Support Specialist </a>, <a [href="www.linkedin.com/in/roy-parks-koruntoff-b3a89730b">IT Professional</a>
+<h1>Hi, I'm Roy <br/><a href="https://github.com/Koruntoff">IT Support Specialist </a>, <a href="www.linkedin.com/in/roy-parks-koruntoff-b3a89730b">IT Professional</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
