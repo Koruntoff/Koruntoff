@@ -3,7 +3,8 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Home Lab] (https://github.com/Koruntoff/ActiveDirectoryLab/tree/main)
-- [NAS Server] (
+- [NAS Server] (https://github.com/Koruntoff/BMI)
+- [BMI Calculator] (
 
 <h2>📄 Certifications</h2>
 
