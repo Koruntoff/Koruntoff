@@ -3,13 +3,12 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Home Lab] (https://github.com/Koruntoff/ActiveDirectoryLab/tree/main)
-- [NAS Server] (
-- [BMI Calculator] (https://github.com/Koruntoff/BMI)
+
 
 <h2>📄 Certifications</h2>
 
 - [Comptia A+ certification]
-- [Comptia Network+ cerification (to be obtained on june 9th]
+- [Comptia Network+ cerification (to be obtained on Nov 20th]
 
 <h2> 🤳 Connect with me:</h2>
 
