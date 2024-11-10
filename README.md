@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Home Lab] (https://github.com/Koruntoff/ActiveDirectoryLab/tree/main)
+- [Proxmox Enterprise Hypervisor Home Lab] (https://github.com/Koruntoff/Hypervisor)
 
 
 <h2>📄 Certifications</h2>
